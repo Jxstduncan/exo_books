@@ -54,3 +54,18 @@
 .d-flex{
     justify-content: space-evenly;
 }
+.footertext{
+    width: 300px;
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 100px
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
