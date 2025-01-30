@@ -43,6 +43,14 @@
 /* .card-img-top{
 
 } */
- .card-body{
+.card-body{
     text-align: center;
  }
+.card{
+    display: flex;
+    justify-content: center;
+
+}
+.d-flex{
+    justify-content: space-evenly;
+}
